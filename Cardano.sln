@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardano.Cipherer", "Cardano.Cipherer\Cardano.Cipherer.csproj", "{29CFC4C2-A43F-4B44-B643-ADA97CC9BA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardano.Cipher.Generator", "Cardano.Cipher.Generator\Cardano.Cipher.Generator.csproj", "{236F633B-6470-4651-AC14-96F41CB796E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExtensions", "ArrayExtensions\ArrayExtensions.csproj", "{93CD37C9-F602-4CD8-82BA-801D9FE5CC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardano.Commons", "Cardano.Commons\Cardano.Commons.csproj", "{9F511913-3AFA-4333-928A-7AA695CF0043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CFC4C2-A43F-4B44-B643-ADA97CC9BA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CFC4C2-A43F-4B44-B643-ADA97CC9BA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CFC4C2-A43F-4B44-B643-ADA97CC9BA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CFC4C2-A43F-4B44-B643-ADA97CC9BA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236F633B-6470-4651-AC14-96F41CB796E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236F633B-6470-4651-AC14-96F41CB796E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236F633B-6470-4651-AC14-96F41CB796E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236F633B-6470-4651-AC14-96F41CB796E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CD37C9-F602-4CD8-82BA-801D9FE5CC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CD37C9-F602-4CD8-82BA-801D9FE5CC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CD37C9-F602-4CD8-82BA-801D9FE5CC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CD37C9-F602-4CD8-82BA-801D9FE5CC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F511913-3AFA-4333-928A-7AA695CF0043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F511913-3AFA-4333-928A-7AA695CF0043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F511913-3AFA-4333-928A-7AA695CF0043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F511913-3AFA-4333-928A-7AA695CF0043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
